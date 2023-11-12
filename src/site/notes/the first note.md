@@ -3,3 +3,5 @@
 ---
 
 this is a mirage
+
+[[BestGPTs/agentops gpts list\|agentops gpts list]]
