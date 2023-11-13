@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mentors/"}
+{"dg-publish":true,"permalink":"/site/src/site/notes/mentors/"}
 ---
+
 
 
 [[Tonic\|Tonic]]
