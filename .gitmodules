@@ -1,0 +1,6 @@
+[submodule "src/site/notes/Rubbish-TrashGPT"]
+	path = src/site/notes/Rubbish-TrashGPT
+	url = https://github.com/JAllen2022/Rubbish-TrashGPT
+[submodule "src/site/notes/reflectiveai"]
+	path = src/site/notes/reflectiveai
+	url = https://github.com/etown/reflectiveai
