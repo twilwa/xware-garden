@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/events-rules/","tags":["server-info","event-rules"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/events-rules/","tags":["server-info","event-rules"]}
 ---
+
 
 
 [[site/src/site/notes/Friday Night Firefight\|Friday Night Firefight]]
