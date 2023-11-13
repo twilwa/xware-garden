@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/resources/"}
+{"dg-publish":true,"permalink":"/site/src/site/notes/resources/"}
 ---
+
 
 
 [[BestGPTs/agentops gpts list\|agentops gpts list]]
