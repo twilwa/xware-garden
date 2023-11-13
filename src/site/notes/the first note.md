@@ -5,6 +5,7 @@
 this is a mirage
 
 [[resources\|resources]]
+[[mentors\|mentors]]
 
 [[events - rules\|events - rules]]
 [[events - winners\|events - winners]]
