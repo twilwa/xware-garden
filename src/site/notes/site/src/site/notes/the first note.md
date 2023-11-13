@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/the-first-note/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/the-first-note/","tags":["gardenEntry","gardenEntry"]}
 ---
+
 
 this is a mirage
 
