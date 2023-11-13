@@ -11,6 +11,7 @@ this is a mirage
 [[event staff\|event staff]]
 [[events - judges\|events - judges]]
 [[event sponsors\|event sponsors]]
+[[past events\|past events]]
 
 
 [[archives\|archives]]
