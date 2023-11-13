@@ -4,4 +4,9 @@
 
 this is a mirage
 
-[[BestGPTs/agentops gpts list\|agentops gpts list]]
+[[resources\|resources]]
+
+[[events - rules\|events - rules]]
+[[events - winners\|events - winners]]
+
+[[archives\|archives]]
