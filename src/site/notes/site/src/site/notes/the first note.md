@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/src/site/notes/the-first-note/","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/the-first-note/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 another test
