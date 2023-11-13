@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/emergency-dev-day-hackathon/","tags":["past-events","winners","prizes","oai-dev-day-builders"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/emergency-dev-day-hackathon/","tags":["past-events","winners","prizes","oai-dev-day-builders"]}
 ---
+
 
 
 All Participants:
