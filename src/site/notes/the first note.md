@@ -8,5 +8,9 @@ this is a mirage
 
 [[events - rules\|events - rules]]
 [[events - winners\|events - winners]]
+[[event staff\|event staff]]
+[[events - judges\|events - judges]]
+[[event sponsors\|event sponsors]]
+
 
 [[archives\|archives]]
