@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/friday-night-firefight/","tags":["event","event-rules","sprint"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/friday-night-firefight/","tags":["event","event-rules","sprint"]}
 ---
+
 
 This event is a Sprint by default (Under 24h.) Some Firefights may be Races (24-48h) or Marathons (48h+) depending on the Firefight participant.
 
