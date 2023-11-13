@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/test-drive/","tags":["event","event-rules","sprint"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/test-drive/","tags":["event","event-rules","sprint"]}
 ---
+
 
 This is a Sprint event (under 24hrs)
 
