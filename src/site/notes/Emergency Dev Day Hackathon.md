@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emergency-dev-day-hackathon/","tags":["past-events","winners","prizes"]}
+{"dg-publish":true,"permalink":"/emergency-dev-day-hackathon/","tags":["past-events","winners","prizes","oai-dev-day-builders"]}
 ---
 
 
