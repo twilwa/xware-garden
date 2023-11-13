@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/char-id-es/","tags":["event","event-rules","sprint"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/char-id-es/","tags":["event","event-rules","sprint"]}
 ---
+
 
 This is a Sprint event (under 24hrs)
 
