@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/x-ware-repository-for-techno-anarchists/"}
+{"dg-publish":true,"permalink":"/site/src/site/notes/x-ware-repository-for-techno-anarchists/"}
 ---
+
 
 
 you are here
