@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/best-gp-ts/agentops-gpts-list/"}
+{"dg-publish":true,"permalink":"/site/src/site/notes/best-gp-ts/agentops-gpts-list/"}
 ---
+
 
 # BestGPTs
 Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
