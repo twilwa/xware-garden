@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/events-judges/","tags":["oai-dev-day-builders","past-events"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/events-judges/","tags":["oai-dev-day-builders","past-events"]}
 ---
+
 
 [[site/src/site/notes/Emergency Dev Day Hackathon\|Emergency Dev Day Hackathon]]
 ---
