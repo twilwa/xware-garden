@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/musical-ide-s/","tags":["sprint","event","event-rules"]}
+{"dg-publish":true,"permalink":"/site/src/site/notes/musical-ide-s/","tags":["sprint","event","event-rules"]}
 ---
+
 
 
 When: TBD
