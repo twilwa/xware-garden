@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/site/notes/Emergency Dev Day Hackathon.md",
+                "file": "src/site/notes/resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/site/notes/Emergency Dev Day Hackathon.md",
+                "file": "src/site/notes/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/site/notes/Emergency Dev Day Hackathon.md",
+                "file": "src/site/notes/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/site/notes/Emergency Dev Day Hackathon.md"
+                "file": "src/site/notes/resources.md"
               }
             }
           }
@@ -143,11 +143,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a8d9598954a2be02",
+  "active": "bb991a75f6f76383",
   "lastOpenFiles": [
+    "src/site/notes/Samuel Epke.md",
+    "src/site/notes/Test Drive.md",
+    "src/site/notes/the first note.md",
+    "src/site/notes/x-ware repository for techno-anarchists.md",
+    "src/site/notes/resources.md",
+    "src/site/notes/Friday Night Firefight.md",
+    "src/site/notes/Emergency Dev Day Hackathon.md",
     "src/site/notes/events - winners.md",
     "src/site/notes/events - rules.md",
     "src/site/notes/reflectiveai/reflectiveai.ipynb",
