@@ -1,9 +1,11 @@
 {
   "githubRepo": "xware-garden",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "twilwa",
-  "gardenBaseUrl": "",
-  "prHistory": [],
+  "gardenBaseUrl": "xware-garden.vercel.app",
+  "prHistory": [
+    "https://github.com/twilwa/xware-garden/pull/8"
+  ],
   "baseTheme": "dark",
   "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
   "faviconPath": "",
@@ -30,13 +32,13 @@
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,
-    "dgShowBacklinks": false,
-    "dgShowLocalGraph": false,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
     "dgShowInlineTitle": false,
-    "dgShowFileTree": false,
-    "dgEnableSearch": false,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
     "dgShowToc": false,
-    "dgLinkPreview": false,
-    "dgShowTags": false
+    "dgLinkPreview": true,
+    "dgShowTags": true
   }
 }

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 If you would like to add a note to the garden, you can submit PRs containing .md files following the same guidelines and templates used in existing notes. Please note that the YAML frontmatter of the file must contain the 'dg-publish' key set to true, similar to other notes within the garden.
 
 Notes can be found in the site/src/notes directory. If you'd like your addition to appear in the garden, make changes there.
